@@ -13,6 +13,7 @@ dependencies = [
     "channels>=4.2.0",
     "websockets>=14.2",
     "python-dotenv>=1.0.1",
+    "pydantic-ai>=0.0.24",
 ]
 
 [build-system]
